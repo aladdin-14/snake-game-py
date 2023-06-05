@@ -158,7 +158,7 @@ class Game:
                 self.run()
                 break
             elif key in [ord('q'), ord('Q')]:
-                return
+                return #need to be finished
 
     def reset(self):
         # Reset the game state for a new game
